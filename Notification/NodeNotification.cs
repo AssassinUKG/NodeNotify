@@ -265,7 +265,7 @@ public class NodeNotification : Form
         this.labelTitle.Size = new System.Drawing.Size(26, 14);
         this.labelTitle.TabIndex = 3;
         this.labelTitle.Text = "Title";
-        this.labelTitle.Font = new Font("Arial", 8);
+        this.labelTitle.Font = new Font("Arial", 8.25f);
         // 
         // textBoxText
         // 
