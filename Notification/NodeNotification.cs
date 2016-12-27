@@ -4,7 +4,7 @@ using System.IO;
 using System.Media;
 using System.Windows.Forms;
 
-
+//Made by Coefficient @ http://coefficient.me
 public class NodeNotification : Form
 {
     #region Properties
